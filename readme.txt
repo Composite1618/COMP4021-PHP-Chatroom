@@ -1,0 +1,1 @@
+Please do not delete the images folder while testing because it's where I store the pictures for the user list. Program was ran in the www subfolder of wampserver.
